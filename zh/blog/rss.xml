@@ -4,21 +4,21 @@
         <title>KubeVela Blog</title>
         <link>https://kubevela.io/blog</link>
         <description>KubeVela Blog</description>
-        <lastBuildDate>Mon, 29 Mar 2021 01:06:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 03:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[如何在 20 分钟内给你的 K8s PaaS 上线一个新功能]]></title>
             <link>https://kubevela.io/zh/blog/extend-kubevela-by-cuelang-in-20-mins</link>
             <guid>如何在 20 分钟内给你的 K8s PaaS 上线一个新功能</guid>
-            <pubDate>Mon, 29 Mar 2021 01:06:35 GMT</pubDate>
+            <pubDate>Mon, 29 Mar 2021 03:21:21 GMT</pubDate>
             <description><![CDATA[如何在 20 分钟内给你的 K8s PaaS 上线一个新功能]]></description>
         </item>
         <item>
             <title><![CDATA[KubeVela 正式开源：一个高可扩展的云原生应用平台与核心引擎]]></title>
             <link>https://kubevela.io/zh/blog/kubevela-the-extensible-app-platform-based-on-open-application-model-and-kubernetes</link>
             <guid>KubeVela 正式开源：一个高可扩展的云原生应用平台与核心引擎</guid>
-            <pubDate>Mon, 29 Mar 2021 01:06:35 GMT</pubDate>
+            <pubDate>Mon, 29 Mar 2021 03:21:21 GMT</pubDate>
             <description><![CDATA[The Extensible App Platform Based on Open Application Model and Kubernetes]]></description>
         </item>
     </channel>
