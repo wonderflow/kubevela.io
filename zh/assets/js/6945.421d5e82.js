@@ -1,1 +1,0 @@
-(self.webpackChunkkubevela_io=self.webpackChunkkubevela_io||[]).push([[6945],{6945:function(e,u,k){"use strict";k.r(u)}}]);
