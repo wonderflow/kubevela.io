@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kubevela.io/blog</id>
     <title>KubeVela Blog</title>
-    <updated>2021-06-17T08:15:47.040Z</updated>
+    <updated>2021-06-21T02:27:57.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kubevela.io/blog"/>
     <subtitle>KubeVela Blog</subtitle>
@@ -11,21 +11,21 @@
         <title type="html"><![CDATA[如何在 20 分钟内给你的 K8s PaaS 上线一个新功能]]></title>
         <id>如何在 20 分钟内给你的 K8s PaaS 上线一个新功能</id>
         <link href="https://kubevela.io/zh/blog/extend-kubevela-by-cuelang-in-20-mins"/>
-        <updated>2021-06-17T08:15:47.040Z</updated>
+        <updated>2021-06-21T02:27:57.951Z</updated>
         <summary type="html"><![CDATA[如何在 20 分钟内给你的 K8s PaaS 上线一个新功能]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[KubeVela 官方文档翻译活动]]></title>
         <id>KubeVela 官方文档翻译活动</id>
         <link href="https://kubevela.io/zh/blog/kubevela-official-documentation-translation-event"/>
-        <updated>2021-06-17T08:15:47.040Z</updated>
+        <updated>2021-06-21T02:27:57.951Z</updated>
         <summary type="html"><![CDATA[KubeVela 官方文档翻译活动]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[KubeVela 正式开源：一个高可扩展的云原生应用平台与核心引擎]]></title>
         <id>KubeVela 正式开源：一个高可扩展的云原生应用平台与核心引擎</id>
         <link href="https://kubevela.io/zh/blog/kubevela-the-extensible-app-platform-based-on-open-application-model-and-kubernetes"/>
-        <updated>2021-06-17T08:15:47.040Z</updated>
+        <updated>2021-06-21T02:27:57.951Z</updated>
         <summary type="html"><![CDATA[The Extensible App Platform Based on Open Application Model and Kubernetes]]></summary>
     </entry>
 </feed>
